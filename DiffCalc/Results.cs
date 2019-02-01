@@ -223,6 +223,7 @@ namespace DiffCalc
 
 		private void Results_Resize(object sender, System.EventArgs e)
 		{
+            //listview & reporting 사이즈 조절
 			int w = this.ClientRectangle.Width/2;
 			lvSource.Location = new Point(0,0);
 			lvSource.Width = w;
