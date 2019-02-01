@@ -11,3 +11,12 @@ C:\Users\MunJiHyun\Source\DiffEngine_src\DiffCalc\obj\Debug\DiffCalc.exe
 C:\Users\MunJiHyun\Source\DiffEngine_src\DiffCalc\obj\Debug\DiffCalc.pdb
 C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.exe
 C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.pdb
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\bin\Debug\DiffCalc.exe
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\bin\Debug\DiffCalc.pdb
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\bin\Debug\DifferenceEngine.dll
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\bin\Debug\DifferenceEngine.pdb
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.csprojResolveAssemblyReference.cache
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.BinaryResults.resources
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.MainForm.resources
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.Results.resources
+C:\Users\MunJiHyun\Source\Repos\DiffEngine\DiffCalc\obj\Debug\DiffCalc.csproj.GenerateResource.Cache
